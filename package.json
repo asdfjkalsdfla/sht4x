@@ -1,0 +1,28 @@
+{
+  "name": "sht4x",
+  "version": "1.0.0",
+  "description": "Reads humidity and temperature from the SHT40, SHT41, and SHT45 sensor via I2C.",
+  "main": "SHT4x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SHT40",
+    "SHT41",
+    "SHT45",
+    "SHT4X",
+    "Temperature",
+    "Humidity",
+    "Sensor",
+    "Adafruit",
+    "Raspberry",
+    "Pi"
+  ],
+  "author": "asdfjkalsdfla",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "crc": "^4.1.1",
+    "i2c-bus": "^5.2.2",
+    "polycrc": "^1.1.1"
+  }
+}
