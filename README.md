@@ -1,4 +1,4 @@
-# SHT4X Temapture Sensor
+# SHT4X Temperature Sensor
 
 Reads humidity and temperature from the SHT40, SHT41, and SHT45 sensor via I2C.
 
